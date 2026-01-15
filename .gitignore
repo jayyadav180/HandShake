@@ -1,0 +1,23 @@
+# ===== Build output =====
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# ===== Binaries =====
+*.exe
+*.dll
+*.obj
+*.o
+
+# ===== Ninja =====
+.ninja_log
+.ninja_deps
+
+# ===== VS Code =====
+.vscode/
+
+# ===== OS noise =====
+.DS_Store
+Thumbs.db
