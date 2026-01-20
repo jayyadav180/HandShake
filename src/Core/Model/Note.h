@@ -31,6 +31,9 @@ struct Note
     // User-defined name/title (can change)
     std::string title;
 
+    //for folder
+    std::string folder;
+
     // The actual text content
     std::string content;
 
