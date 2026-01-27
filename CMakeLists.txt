@@ -10,7 +10,7 @@ find_package(Qt6 REQUIRED COMPONENTS Widgets)
 
 # List of source files
 add_executable(HandShake
-   src/main.cpp
+   src/App/main.cpp
 )
 
 # Include directories for headers
